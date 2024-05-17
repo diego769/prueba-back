@@ -1,0 +1,10 @@
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('12345678-9', 12000, 1.05);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('98765432-1', 15500, 1.08);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('23456789-0', 10200, 1.06);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('34567890-1', 14800, 1.07);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('45678901-2', 11700, 1.04);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('56789012-3', 13600, 1.09);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('67890123-4', 12900, 1.06);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('78901234-5', 16300, 1.07);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('89012345-6', 14200, 1.05);
+INSERT INTO tb_sostenedor_remuneracion(rut_sostenedor, remuneracion_hora_base, incremento) VALUES ('90123456-7', 13900, 1.08);
