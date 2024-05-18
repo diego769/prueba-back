@@ -18,7 +18,7 @@ public class LoginController {
     @Autowired
     SostenedorRemuneracionUseCase sostenedorRemuneracionUseCase;
 
-    @PostMapping("/login")
+    @PostMapping("/obtener-sostenedor")
     public ResponseEntity<SostenedorRemuneracion> autentificarUsuario(@RequestBody IngresoDTO dto) {
         return new ResponseEntity<>(this.sostenedorRemuneracionUseCase.buscar(dto), HttpStatus.OK);
     }
